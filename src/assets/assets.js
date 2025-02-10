@@ -92,43 +92,39 @@ export const menu_list = [
         menu_image: menu_1
     },
     {
-        menu_name: "Rolls",
+        menu_name: "Veg",
         menu_image: menu_2
     },
     {
-        menu_name: "Deserts",
+        menu_name: "Non Veg",
         menu_image: menu_3
     },
     {
-        menu_name: "Sandwich",
+        menu_name: "Desert & Bakery",
         menu_image: menu_4
     },
     {
-        menu_name: "Cake",
+        menu_name: "Stationary Needs",
         menu_image: menu_5
     },
     {
-        menu_name: "Pure Veg",
+        menu_name: "Juice & Beverages",
         menu_image: menu_6
     },
     {
-        menu_name: "Pasta",
+        menu_name: "Personal Care",
         menu_image: menu_7
     },
     {
-        menu_name: "Noodles",
+        menu_name: "Dairy & Breakfast",
         menu_image: menu_8
     },
     {
-        menu_name: "A",
+        menu_name: "Gifts & Confectionaries",
         menu_image: menu_7
     },
     {
-        menu_name: "B",
-        menu_image: menu_7
-    },
-    {
-        menu_name: "C",
+        menu_name: "Home & Office Care",
         menu_image: menu_7
     }
 ]
