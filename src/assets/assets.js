@@ -102,15 +102,15 @@ export const menu_list = [
         menu_image: menu_3
     },
     {
-        menu_name: "Stationary Needs",
+        menu_name: "Stationary",
         menu_image: menu_4
     },
     {
-        menu_name: "Desert & Bakery",
+        menu_name: "Desert",
         menu_image: menu_5
     },
     {
-        menu_name: "Juice & Beverages",
+        menu_name: "Beverages",
         menu_image: menu_6
     },
     {
@@ -118,15 +118,15 @@ export const menu_list = [
         menu_image: menu_7
     },
     {
-        menu_name: "Dairy & Breakfast",
+        menu_name: "Dairy",
         menu_image: menu_8
     },
     {
-        menu_name: "Gifts & Confectionaries",
+        menu_name: "Gifts",
         menu_image: menu_9
     },
     {
-        menu_name: "Home & Office Care",
+        menu_name: "Home Essentials",
         menu_image: menu_10
     }
 ]
