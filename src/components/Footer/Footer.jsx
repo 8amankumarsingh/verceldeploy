@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-content-left">
             <img src={assets.logo} alt="" />
-            <p>It's our promise. Experience the convenience of having fresh produce, pantry staples, and restaurant-quality meals delivered right to your doorstep, always on schedule.</p>
+            <p>It's our promise. Experience the convenience of having fresh produce, pantry staples, and restaurant-quality meals delivered right to your doorstep, always on schedule. </p>
             <div className="footer-social-icons">
                 <img src={assets.facebook_icon} alt="" />
                 <img src={assets.twitter_icon} alt="" />
