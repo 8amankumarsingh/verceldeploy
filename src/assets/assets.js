@@ -102,11 +102,11 @@ export const menu_list = [
         menu_image: menu_3
     },
     {
-        menu_name: "Desert & Bakery",
+        menu_name: "Stationary Needs",
         menu_image: menu_4
     },
     {
-        menu_name: "Stationary Needs",
+        menu_name: "Desert & Bakery",
         menu_image: menu_5
     },
     {
