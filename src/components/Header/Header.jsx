@@ -6,7 +6,7 @@ const Header = () => {
         <div className='header'>
             <div className='header-contents'>
                 <h2>On Time - Every Time</h2>
-                <p>It's our promise. Experience the convenience of having fresh produce, pantry staples, and restaurant-quality meals delivered right to your doorstep, always on schedule.</button>
+                <p>It's our promise. Experience the convenience of having fresh produce, pantry staples, and restaurant-quality meals delivered right to your doorstep, always on schedule.</p>
             </div>
         </div>
     )
